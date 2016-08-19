@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>718104509567-s2bg7cu2grp4k70iso11bheb5vnimnmc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.718104509567-s2bg7cu2grp4k70iso11bheb5vnimnmc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeaVFS2fEfUCoE_n_saiyU_PNdwYYq_SI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>718104509567</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vh.tech.myBox</string>
+	<key>PROJECT_ID</key>
+	<string>myboxhm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myboxhm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:718104509567:ios:4c66a23f0dd154da</string>
+	<key>DATABASE_URL</key>
+	<string>https://myboxhm.firebaseio.com</string>
+</dict>
+</plist>
